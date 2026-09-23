@@ -1,0 +1,6 @@
+# Local state file with your last checked price (regenerated automatically)
+last_price.json
+
+# Python
+__pycache__/
+*.pyc
