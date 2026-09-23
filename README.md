@@ -10,3 +10,11 @@ Status
 Actively maintained. Custom price-tracking bots built for client needs.
 Get in touch
 Open for freelance work — DM on Twitter for custom bot & automation projects.
+## Usage
+
+```bash
+pip install -r requirements.txt
+python price_tracker.py
+```
+
+Set your `BOT_TOKEN` and `CHAT_ID` at the top of `price_tracker.py` before running.
